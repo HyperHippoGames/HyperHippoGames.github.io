@@ -6,14 +6,17 @@
 <body>
 <script>
 
+shouldWebGL = false;
 var chromeVersion = window.navigator.userAgent.match(/Chrome\/(\d+)\./);
 if (chromeVersion && chromeVersion[1]) {
   if (parseInt(chromeVersion[1], 10) >= 42) {
-    window.location = "/webgl/";
+    window.location = "/adcap/webgl/";
+	shouldWebGL = true;
   }
 }
-window.location = "/webplayer/webplayer.html";
-
+if(!shouldWebGL){
+	window.location = "/adcap/webplayer/webplayer.html";
+}
 </script>
 </body>
 </html>
