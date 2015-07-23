@@ -18,7 +18,7 @@
 	<script type='text/javascript'>
   // connect to canvas
   var Module = {
-    TOTAL_MEMORY: 228589568,
+    TOTAL_MEMORY: 268435456,
     filePackagePrefixURL: "Release/",
     memoryInitializerPrefixURL: "Release/",
     preRun: [],
@@ -61,11 +61,11 @@
 <script src="Release/fileloader.js"></script>
 <script>if (!(!Math.fround)) {
   var script = document.createElement('script');
-  script.src = "Release/adcap.js";
+  script.src = "Release/webgl.js";
   document.body.appendChild(script);
 } else {
   var codeXHR = new XMLHttpRequest();
-  codeXHR.open('GET', 'Release/adcap.js', true);
+  codeXHR.open('GET', 'Release/webgl.js', true);
   codeXHR.onload = function() {
     var code = codeXHR.responseText;
     if (!Math.fround) { 
