@@ -10,12 +10,12 @@ shouldWebGL = false;
 var chromeVersion = window.navigator.userAgent.match(/Chrome\/(\d+)\./);
 if (chromeVersion && chromeVersion[1]) {
   if (parseInt(chromeVersion[1], 10) >= 42) {
-    window.location = "/adcap/webgl/";
+    window.location = "/adventure-capitalist/webgl/";
 	shouldWebGL = true;
   }
 }
 if(!shouldWebGL){
-	window.location = "/adcap/webplayer/webplayer.html";
+	window.location = "/adventure-capitalist/webplayer/webplayer.html";
 }
 </script>
 </body>
