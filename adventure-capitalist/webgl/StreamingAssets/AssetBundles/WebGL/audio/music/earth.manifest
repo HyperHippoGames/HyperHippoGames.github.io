@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2664621081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0e1a2ea14e66cf770723dd88a4da122
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/adventure_capitalist_3_export.mp3
+Dependencies: []

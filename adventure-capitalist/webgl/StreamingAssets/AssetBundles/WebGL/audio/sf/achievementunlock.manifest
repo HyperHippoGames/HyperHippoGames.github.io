@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2068693130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67bc772584729e1f4426fa58400da630
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/Achievement Unlock.aif
+Dependencies: []

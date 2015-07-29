@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3858920605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9b48bd0b984c12c9e2f1850ae9dc096
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/moon_theme_final.mp3
+Dependencies: []

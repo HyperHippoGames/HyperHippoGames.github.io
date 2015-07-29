@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1522958940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4bb73aa5d88ed707ffc81578c529fef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/Soft Reset.aif
+Dependencies: []

@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenes/earth
+      Dependencies:
+        Dependency_0: audio/sf/achievementunlock
+        Dependency_1: audio/sfk/angelsacrifice
+        Dependency_2: audio/sfk/buyinvestment
+        Dependency_3: audio/sfk/buyupgrade
+        Dependency_4: audio/sfk/buygold
+        Dependency_5: audio/sfk/toggleclick
+    Info_1:
+      Name: scenes/moon
+      Dependencies:
+        Dependency_0: audio/sf/achievementunlock
+        Dependency_1: audio/sfk/angelsacrifice
+        Dependency_2: audio/sfk/buyinvestment
+        Dependency_3: audio/sfk/buyupgrade
+        Dependency_4: audio/sfk/buygold
+        Dependency_5: audio/sfk/toggleclick
+    Info_2:
+      Name: scenes/mars
+      Dependencies:
+        Dependency_0: audio/sf/achievementunlock
+        Dependency_1: audio/sfk/angelsacrifice
+        Dependency_2: audio/sfk/buyinvestment
+        Dependency_3: audio/sfk/buyupgrade
+        Dependency_4: audio/sfk/buygold
+        Dependency_5: audio/sfk/toggleclick
+    Info_3:
+      Name: audio/music/earth
+      Dependencies: {}
+    Info_4:
+      Name: audio/music/moon
+      Dependencies: {}
+    Info_5:
+      Name: audio/sf/achievementunlock
+      Dependencies: {}
+    Info_6:
+      Name: audio/music/earthxmas
+      Dependencies: {}
+    Info_7:
+      Name: audio/sfk/angelsacrifice
+      Dependencies: {}
+    Info_8:
+      Name: audio/sfk/buyinvestment
+      Dependencies: {}
+    Info_9:
+      Name: audio/sfk/buyupgrade
+      Dependencies: {}
+    Info_10:
+      Name: audio/sfk/buygold
+      Dependencies: {}
+    Info_11:
+      Name: audio/sfk/hardreset
+      Dependencies: {}
+    Info_12:
+      Name: audio/sfk/softreset
+      Dependencies: {}
+    Info_13:
+      Name: audio/sfk/toggleclick
+      Dependencies: {}
+    Info_14:
+      Name: audio/sfk/upgradepurchase
+      Dependencies: {}

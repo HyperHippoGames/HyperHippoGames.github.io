@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 770958889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4584734225556a4b5b6e57ad844e4c1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/Buy upgrade button.aif
+Dependencies: []

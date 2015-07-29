@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2275968836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afc0ad91e856d4e2558638505010bb9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/Adventure Capitalist 3 Christmas Final.it
+Dependencies: []
