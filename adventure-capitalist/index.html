@@ -10,7 +10,7 @@ shouldWebGL = false;
 var chromeVersion = window.navigator.userAgent.match(/Chrome\/(\d+)\./);
 if (chromeVersion && chromeVersion[1]) {
   if (parseInt(chromeVersion[1], 10) >= 42) {
-    window.location = "/adventure-capitalist/webgl/";
+    window.location = "/adventure-capitalist/webgl/index.html";
 	shouldWebGL = true;
   }
 }
