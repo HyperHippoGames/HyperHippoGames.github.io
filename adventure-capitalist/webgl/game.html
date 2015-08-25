@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | %UNITY_WEB_NAME%</title>
+	<link rel="stylesheet" href="TemplateData/style.css">
+	<link rel="shortcut icon" href="TemplateData/favicon.ico" />
+    <script src="TemplateData/UnityProgress.js"></script>
+  </head>
+  <body class="template">
+    <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="%UNITY_HEIGHT%px" width="%UNITY_WIDTH%px"></canvas>
+    <div id="loadingBox">
+		<div id="bgBar"></div>
+		<div id="progressBar"></div>
+	<p id="loadingInfo">Loading...</p>
+	</div>
+	%UNITY_WEBGL_LOADER_GLUE%
+  </body>
+</html>
